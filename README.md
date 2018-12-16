@@ -22,5 +22,3 @@ quit
 * change **settings.py** DB_HOST to db container host: `inspect db | grep IPAddress`
 * create database in db container: `python -m models.passion_mysql`
 * crawl data: `python -m main --type category && python -m main --type link_page && python -m main --type link_product`
-
-
