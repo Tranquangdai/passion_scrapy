@@ -1,0 +1,15 @@
+*.csv
+*.tsv
+*.pkl
+*.bin
+*.jpg
+*.pyc
+*.png
+*.gif
+*/__pycache__
+*.env
+*.db
+/notebook/
+/.vscode
+/image
+env
